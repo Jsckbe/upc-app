@@ -1,0 +1,3 @@
+[submodule "upc-app"]
+	path = upc-app
+	url = https://github.com/Jsckbe/upc-app.git
